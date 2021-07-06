@@ -1,4 +1,4 @@
-# group_48
+# inside ShopTribal
 
 <h1> Tribal Shop </h1>
 
